@@ -1,0 +1,24 @@
+[submodule "ms-module/ms-module-agent"]
+	path = ms-module/ms-module-agent
+	url = https://github.com/Mr-NaCl114/ms-module-agent.git
+	branch = main
+[submodule "ms-module/ms-module-authentication"]
+	path = ms-module/ms-module-authentication
+	url = https://github.com/Mr-NaCl114/ms-module-authentication.git
+	branch = main
+[submodule "ms-module/ms-module-base"]
+	path = ms-module/ms-module-base
+	url = https://github.com/Mr-NaCl114/ms-module-base.git
+	branch = main
+[submodule "ms-module/ms-module-draw"]
+	path = ms-module/ms-module-draw
+	url = https://github.com/Mr-NaCl114/ms-module-draw.git
+	branch = main
+[submodule "ms-module/ms-module-gaming"]
+	path = ms-module/ms-module-gaming
+	url = https://github.com/Mr-NaCl114/ms-module-gaming.git
+	branch = main
+[submodule "ms-module/ms-module-gateway"]
+	path = ms-module/ms-module-gateway
+	url = https://github.com/Mr-NaCl114/ms-module-gateway.git
+	branch = main
